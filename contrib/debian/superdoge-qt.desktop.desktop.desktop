@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SUPERDOGE
+Comment=SUPERDOGE P2P Cryptocurrency
+Exec=superdoge-qt %u
+Terminal=false
+Type=Application
+Icon=superdoge128
+MimeType=x-scheme-handler/superdoge;
+Categories=Office;Finance;
+Name[ru]=superdoge-qt.desktop.desktop

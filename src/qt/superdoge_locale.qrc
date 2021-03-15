@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/superdoge_bg.qm</file>
+        <file alias="ca">locale/superdoge_ca.qm</file>
+        <file alias="cs">locale/superdoge_cs.qm</file>
+        <file alias="da">locale/superdoge_da.qm</file>
+        <file alias="de">locale/superdoge_de.qm</file>
+        <file alias="en">locale/superdoge_en.qm</file>
+        <file alias="en_US">locale/superdoge_en_US.qm</file>
+        <file alias="es">locale/superdoge_es.qm</file>
+        <file alias="fi">locale/superdoge_fi.qm</file>
+        <file alias="fr_FR">locale/superdoge_fr_FR.qm</file>
+        <file alias="it">locale/superdoge_it.qm</file>
+        <file alias="ja">locale/superdoge_ja.qm</file>
+        <file alias="ko_KR">locale/superdoge_ko_KR.qm</file>
+        <file alias="nl">locale/superdoge_nl.qm</file>
+        <file alias="pl">locale/superdoge_pl.qm</file>
+        <file alias="pt">locale/superdoge_pt.qm</file>
+        <file alias="pt_BR">locale/superdoge_pt_BR.qm</file>
+        <file alias="ro_RO">locale/superdoge_ro_RO.qm</file>
+        <file alias="ru">locale/superdoge_ru.qm</file>
+        <file alias="sk">locale/superdoge_sk.qm</file>
+        <file alias="sv">locale/superdoge_sv.qm</file>
+        <file alias="tr">locale/superdoge_tr.qm</file>
+        <file alias="uk">locale/superdoge_uk.qm</file>
+        <file alias="zh_CN">locale/superdoge_zh_CN.qm</file>
+        <file alias="zh_TW">locale/superdoge_zh_TW.qm</file>
+    </qresource>
+</RCC>

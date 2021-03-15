@@ -1,0 +1,11 @@
+[Protocol]
+exec=superdoge-qt '%u'
+protocol=superdoge
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

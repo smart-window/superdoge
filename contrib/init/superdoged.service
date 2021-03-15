@@ -1,0 +1,26 @@
+[Unit]
+Description=SUPERDOGE's distributed currency daemon
+After=network.target
+
+[Service]
+User=superdoge
+Group=superdoge
+
+Type=forking
+PIDFile=/var/lib/superdoged/superdoged.pid
+
+ExecStart=/usr/bin/superdoged -daemon -pid=/var/lib/superdoged/superdoged.pid \
+          -conf=/etc/superdoge/superdoge.conf -datadir=/var/lib/superdoged
+
+ExecStop=-/usr/bin/superdoge-cli -conf=/etc/superdoge/superdoge.conf \
+         -datadir=/var/lib/superdoged stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
