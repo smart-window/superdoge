@@ -5,10 +5,12 @@ Superdoge is Decentralized Peer-to-Peer People's Crypto. Move your funds free an
 
 Superdoge is a spin-off fork of Dogecoin and will be released on 1st of April, 2021. Superdoge can only be obtained through exchange and trading websites.
 
-
 More information at [superdoge.net](https://superdoge.net) 
 
-For exchanges and developers
+### Resources: 
+[Superdoge Block Explorer](https://explorer.superdoge.net) 
+
+### For exchanges and developers
 
 [UNIX BUILD NOTES](https://github.com/superdoge-project/superdoge/blob/main/doc/build-unix.md)
 [WINDOWS BUILD NOTES](https://github.com/superdoge-project/superdoge/blob/main/doc/build-windows.md)
