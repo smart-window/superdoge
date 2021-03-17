@@ -10,10 +10,13 @@ More information at [superdoge.net](https://superdoge.net)
 ### Resources: 
 [Superdoge Block Explorer](https://explorer.superdoge.net) 
 
+
 ### For exchanges and developers
 
-[UNIX BUILD NOTES](https://github.com/superdoge-project/superdoge/blob/main/doc/build-unix.md)
-[WINDOWS BUILD NOTES](https://github.com/superdoge-project/superdoge/blob/main/doc/build-windows.md)
+- [OSX Build Notes](https://github.com/superdoge-project/superdoge/blob/main/doc/build-osx.md)
+- [Unix Build Notes](https://github.com/superdoge-project/superdoge/blob/main/doc/build-unix.md)
+- [Gitian Building Guide](https://github.com/superdoge-project/superdoge/blob/main/doc/gitian-building.md)
+- [Windows Build Notes] (https://github.com/superdoge-project/superdoge/blob/main/doc/build-windows.md)
 
 
 ### Coin Specs
