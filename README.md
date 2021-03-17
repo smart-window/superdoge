@@ -16,7 +16,7 @@ More information at [superdoge.net](https://superdoge.net)
 - [OSX Build Notes](https://github.com/superdoge-project/superdoge/blob/main/doc/build-osx.md)
 - [Unix Build Notes](https://github.com/superdoge-project/superdoge/blob/main/doc/build-unix.md)
 - [Gitian Building Guide](https://github.com/superdoge-project/superdoge/blob/main/doc/gitian-building.md)
-- [Windows Build Notes] (https://github.com/superdoge-project/superdoge/blob/main/doc/build-windows.md)
+- [Windows Build Notes](https://github.com/superdoge-project/superdoge/blob/main/doc/build-windows.md)
 
 
 ### Coin Specs
