@@ -155,6 +155,17 @@ public:
         vSeeds.push_back(CDNSSeedData("superdoge.net", "seeder01.superdoge.net")); // Primary DNS Seeder
         vSeeds.push_back(CDNSSeedData("superdoge.net", "seeder02.superdoge.net"));
 
+        vSeeds.push_back(CDNSSeedData("node1", "139.59.167.99"));
+        vSeeds.push_back(CDNSSeedData("node2", "139.59.171.230"));
+        vSeeds.push_back(CDNSSeedData("node3", "46.101.94.135"));
+        vSeeds.push_back(CDNSSeedData("node4", "139.59.181.27"));
+        vSeeds.push_back(CDNSSeedData("node5", "188.166.175.34"));
+        vSeeds.push_back(CDNSSeedData("node6", "139.59.179.95"));
+        vSeeds.push_back(CDNSSeedData("node7", "138.68.133.135"));
+        vSeeds.push_back(CDNSSeedData("node8", "138.68.133.132"));
+        vSeeds.push_back(CDNSSeedData("node9", "138.68.131.36"));
+        vSeeds.push_back(CDNSSeedData("node10", "138.68.140.184"));
+
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 63);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 8);
         base58Prefixes[SECRET_KEY] = std::vector<unsigned char>(1, 212);
