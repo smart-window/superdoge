@@ -230,7 +230,7 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("superdoge.net", "testseed01.superdoge.net"));     // Primary DNS Seeder
+        vSeeds.push_back(CDNSSeedData("superdoge.net", "test-seed01.superdoge.net"));     // Primary DNS Seeder
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 137); // Testnet SUPERDOGE addresses start with 'x'
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 19);  // Testnet SUPERDOGE script addresses start with '8' or '9'
