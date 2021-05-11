@@ -1,12 +1,12 @@
 SUPERDOGE integration/staging repository
 =====================================
 
-Superdoge is Decentralized Peer-to-Peer People's Crypto. Move your funds free and freely, instantly with zero-fee cost.
+SuperDoge is a decentralized and community-powered digital currency focused on providing a fast, energy-efficient, and accessible means of transferring value.
+A defined supply helps ensure future value growth while instant payment processing and ZERO-FEE transaction cost make it as simple as cash.
+SuperDoge is truly the people's currency!
 
-Superdoge is a decentralized peer-to-peer people's digital currency and will be released on April 2, 2021. 
-Superdoge can only be obtained through exchange and trading websites.
 
-More information at [superdoge.net](https://superdoge.net) 
+More information at [superdoge.com](https://superdoge.com) 
 
 ### Resources: 
 [Superdoge Block Explorer](https://explorer.superdoge.net) 
